@@ -11,3 +11,10 @@ def patient_triage(symptoms):
         return "Urgent"
     else:
         return "Routine"
+        def doctor_schedule(doctor_name):
+    schedules = {
+        "Dr. Ahmed": "Monday to Friday, 9 AM - 1 PM",
+        "Dr. Sara": "Monday, Wednesday, Friday, 2 PM - 6 PM"
+    }
+
+    return schedules.get(doctor_name, "Schedule not available")
