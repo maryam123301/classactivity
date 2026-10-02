@@ -1,8 +1,18 @@
 \# AuraCare Health System
 
-Created by Maryam zafar (503495)
 
-Team: Maryam,Eman,shazil,noman 
+
+\## Team Members
+
+
+
+\- Maryam Zafar — Engineering Lead / Developer A
+
+\- Eman — Developer B
+
+\- Shazil — Developer C
+
+\- Noman — Documentation and Verification
 
 
 
