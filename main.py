@@ -1,7 +1,7 @@
 # AuraCare Health System Core
-#Maryam Zafar(503495)
+#SHAZIL (532263)
 
-APP_VERSION = "1.0.0"
+APP_VERSION = "2.0.0-Beta"
 MODULES_ENABLED = []
 
 def patient_triage(symptoms):
@@ -11,7 +11,9 @@ def patient_triage(symptoms):
         return "Urgent"
     else:
         return "Routine"
-        def doctor_schedule(doctor_name):
+
+
+def doctor_schedule(doctor_name):
     schedules = {
         "Dr. Ahmed": "Monday to Friday, 9 AM - 1 PM",
         "Dr. Sara": "Monday, Wednesday, Friday, 2 PM - 6 PM"
